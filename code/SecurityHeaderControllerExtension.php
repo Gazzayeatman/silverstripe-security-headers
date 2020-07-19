@@ -2,8 +2,8 @@
 
 namespace Guttmann\SilverStripe;
 
-use Config;
-use Extension;
+use SilverStripe\Core\Extension;
+use SilverStripe\Core\Config\Config;
 
 class SecurityHeaderControllerExtension extends Extension
 {

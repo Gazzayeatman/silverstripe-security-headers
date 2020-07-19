@@ -1,8 +1,7 @@
 ---
 Name: security-headers
 After:
-  - 'framework/*'
-  - 'cms/*'
+  - coreconfig
 ---
 Guttmann\SilverStripe\SecurityHeaderControllerExtension:
   headers:
