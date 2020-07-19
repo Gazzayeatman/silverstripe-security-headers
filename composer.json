@@ -1,6 +1,6 @@
 {
     "name": "gazzayeatman/silverstripe-security-headers",
-    "type": "silverstripe-module",
+    "type": "silverstripe-vendormodule",
     "license": "MIT",
     "authors": [
         {
