@@ -1,5 +1,5 @@
 {
-    "name": "guttmann/silverstripe-security-headers",
+    "name": "gazzayeatman/silverstripe-security-headers",
     "type": "silverstripe-module",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.3.2",
         "composer/installers": "*",
-        "silverstripe/framework": "~3.1"
+        "silverstripe/framework": "^4"
     },
     "autoload": {
         "psr-4": {
